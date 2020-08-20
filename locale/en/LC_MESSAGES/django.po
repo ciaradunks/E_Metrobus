@@ -267,7 +267,7 @@ msgid ""
 "Vergleich zu anderen Verkehrsmitteln sparst"
 msgstr ""
 "Discover how much CO<sub>2</sub>, NO<sub>x</sub> and particulate matter you "
-"savecompared to other means of transport"
+"save compared to other means of transport"
 
 #: e_metrobus/templates/includes/desktop.html:42
 msgid "Lerne über das E-MetroBus Projekt"
@@ -311,7 +311,7 @@ msgid ""
 "Busse in der Lage sein, mit einer hohen Leistung geladen zu werden"
 msgstr ""
 "In order to avoid charge-related downtimes for as long as possible, the "
-"buses must be able to be charge at high power"
+"buses must be able to be charged at high power"
 
 #: e_metrobus/templates/includes/desktop.html:91
 msgid "Ladeinfrastruktur"
