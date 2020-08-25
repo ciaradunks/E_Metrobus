@@ -620,7 +620,9 @@ msgid ""
 "Nur noch <span>zu Fuß</span> oder mit dem <span>Fahrrad</span> kannst du es "
 "besser machen!"
 msgstr ""
-"You can only do better <span>on foot</span> or with the <span>bike</span>!"
+"You can only do better <span>on foot</span> or with a
+
+<span>bike</span>!"
 
 #: e_metrobus/templates/navigation/environment.html:6
 msgid "Umwelteinfluss der E-Busse"
@@ -913,7 +915,7 @@ msgstr "How is the bus line 200 charged?"
 
 #: e_metrobus/templates/pages/question_translations.html:17
 msgid "Stecker von der Seite"
-msgstr "Change route"
+msgstr "Plug from the side"
 
 #: e_metrobus/templates/pages/question_translations.html:17
 msgid "Pantograph von oben"
@@ -952,23 +954,23 @@ msgstr "In the ground"
 
 #: e_metrobus/templates/pages/question_translations.html:23
 msgid "Am Heck"
-msgstr "At the rear"
+msgstr "At the rear end of the bus"
 
 #: e_metrobus/templates/pages/question_translations.html:23
 msgid "Auf dem Dach"
-msgstr "On the roof"
+msgstr "On the roof of the bus"
 
 #: e_metrobus/templates/pages/question_translations.html:23
 msgid "An den Seiten"
-msgstr "On the sides"
+msgstr "On the sides of the bus"
 
 #: e_metrobus/templates/pages/question_translations.html:25
 msgid ""
 "Die Batterien der Elektro-Gelenkbusse, die auf der Linie 200 eingesetzt "
 "werden, sich auf dem Dach angebracht."
 msgstr ""
-"The batteries of the electric articulated buses that will be usedon Line 200 "
-"are mounted on the roof."
+"The batteries of the electric articulated buses that will be used on Line "
+"200 are mounted on the roof."
 
 #: e_metrobus/templates/pages/question_translations.html:27
 msgid "Kosten"
@@ -1114,7 +1116,7 @@ msgstr "More buses"
 
 #: e_metrobus/templates/pages/question_translations.html:52
 msgid "Wasserstoff-Brennstoffzelle"
-msgstr "Hydrogen fuel cell"
+msgstr "Hydrogen fuel cell engine"
 
 #: e_metrobus/templates/pages/question_translations.html:52
 msgid "Oberleitung (Hybrid-Oberleitungsbusse)"
@@ -1465,10 +1467,10 @@ msgid ""
 "kürzere oder längere Ladezeiten möglich.\n"
 msgstr ""
 "\n"
-"With this, the bus has recharged as much energy as it consumed on the route. "
-"In general, consumption and thus the required charging time depends on many "
-"factors (number of passengers, traffic volume, congestion, weather, driving "
-"style, etc.) Accordingly, shorter or longer charging times are also "
+"Within this time, the bus has recharged as much energy as it consumed on the "
+"route.In general, consumption and thus the required charging time depends on "
+"many factors (number of passengers, traffic volume, congestion, weather, "
+"driving style, etc.) Accordingly, shorter or longer charging times are also "
 "possible.\n"
 
 #: e_metrobus/templates/questions/ich/advantages.html:5
@@ -1694,11 +1696,11 @@ msgstr ""
 "\n"
 "Berlin has declared climate neutrality to be one of its goals for the future "
 "and has made this binding in the Berlin Energy Turnaround Act. The public "
-"sector wants to and must set a good example:  For example, it is planned "
-"that Berlin's senate and district administrations will be CO<sub>2</sub>-"
-"neutral from 2030, with comprehensive building refurbishments, among other "
-"things, playing a key role. For example, primary energy consumption is to be "
-"reduced by 80 %% by 2050 compared to 2010.\n"
+"sector wants to and must set a good example: it is planned that Berlin's "
+"senate and district administrations will be CO<sub>2</sub>-neutral from 2030, "
+"with comprehensive building refurbishments, among other things, playing a key "
+"role. For example, primary energy consumption is to be reduced by 80 %% by "
+"2050 compared to 2010.\n"
 "    "
 
 #: e_metrobus/templates/questions/politik/schedule.html:5
